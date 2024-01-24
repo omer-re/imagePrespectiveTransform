@@ -83,3 +83,4 @@ def trans_im(path):
 for img in os.listdir():
     if img.endswith('.jpg'):
         trans_im(img)
+test="Transformed Image"
