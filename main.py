@@ -84,3 +84,4 @@ for img in os.listdir():
     if img.endswith('.jpg'):
         trans_im(img)
 test="Transformed Image"
+SSID='AAMCAR'
